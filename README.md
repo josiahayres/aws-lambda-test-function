@@ -115,5 +115,3 @@ Testing this code should return:
 ![Result of test using application dependency from layer](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8jipadodw1yh9h0e126l.png)
 
 You now have the ability to make HTTP requests and can easily reuse the layer in different applications.
-
-Hopefully this is enough to get you started, you can easily extend this out as needed...
